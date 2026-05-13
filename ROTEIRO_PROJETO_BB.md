@@ -15,11 +15,11 @@ Construir um pipeline de dados e inteligência artificial para um banco digital 
 ### Fase 1: Banco de Dados e Ingestão 🗄️
 **Objetivo:** Configurar as bases de dados e modelar o armazenamento.
 
-- [ ] **1.1. PostgreSQL (Modelo Relacional):**
+- [x] **1.1. PostgreSQL (Modelo Relacional):**
   - Suba um banco PostgreSQL local.
   - Modele e crie tabelas para clientes, contas e histórico de empréstimos.
   - *Foco de estudo:* Normalização (1FN, 2FN, 3FN), chaves primárias e estrangeiras, comandos DDL e DML em SQL.
-- [ ] **1.2. MongoDB (NoSQL Documento):**
+- [x] **1.2. MongoDB (NoSQL Documento):**
   - Suba um banco MongoDB local.
   - Crie uma coleção para armazenar documentos JSON contendo históricos de chats/feedbacks do SAC e logs de cliques no app.
   - *Foco de estudo:* Conceito de bancos baseados em documentos, esquema dinâmico e chave/valor.
