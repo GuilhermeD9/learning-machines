@@ -32,9 +32,9 @@ Construir um pipeline de dados e inteligência artificial para um banco digital 
 ### Fase 2: Preparação e Exploração dos Dados (Analytics) 📊
 **Objetivo:** Consumir os dados dos bancos, limpá-los e gerar *insights* visuais.
 
-- [ ] **2.1. Conexão e Ingestão com Python:**
+- [x] **2.1. Conexão e Ingestão com Python:**
   - Crie scripts Python (versão 3.9+) utilizando bibliotecas como `sqlalchemy`/`psycopg2` e `pymongo` para extrair os dados.
-- [ ] **2.2. Limpeza com Pandas e NumPy:**
+- [x] **2.2. Limpeza com Pandas e NumPy:**
   - Converta os dados extraídos em `DataFrames`.
   - Trate valores ausentes (`.fillna()`, `.dropna()`), remova duplicatas e converta tipos de colunas.
 - [ ] **2.3. Análise Exploratória (EDA):**
